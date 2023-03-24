@@ -1,14 +1,4 @@
-#include <stdio.h>
 #include "main.h"
-/**
- * main - main function
- * Return: success
- */
-int main(void)
-{
-	times_table();
-	return (0);
-}
 
 /**
  * times_table - function to print times table
